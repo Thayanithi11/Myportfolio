@@ -6,6 +6,9 @@
     .about-containers {
       flex-wrap: wrap;
     }
+    #Skills{
+        margin-botton:2rem;
+    }
     #contact,
     #projects {
       height: fit-content;
